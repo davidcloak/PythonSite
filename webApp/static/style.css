@@ -1,0 +1,32 @@
+.content{
+    background-color: rgba(148, 148, 148, 0.8); 
+    padding: 1em; 
+    border-radius: 1em;
+}
+
+.centerBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+.contextBox{
+    background-color: rgb(128, 128, 128);
+    width: 75%;
+    height: 75%;
+    border-radius: 3em;
+}
+
+.contentCenter{
+    text-align: center;
+}
+.contentCenter h3{
+    margin-bottom: 1em;
+}
+
+.death{
+    color: rgb(255, 0, 0);
+    background-color: rgba(25, 25, 25, 0.25);
+}
