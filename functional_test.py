@@ -1,3 +1,4 @@
+import builtins
 from selenium import webdriver
 import unittest
 #make sure website and server are working
@@ -265,7 +266,7 @@ class StyleAndLayoutTest(unittest.TestCase):
         self.assertEquals("rgb(0, 0, 0)", background, "Background color is incorrect.")
 
         backgroundImg = self.browser.find_element_by_id('image').value_of_css_property('background-image')
-        self.assertEquals('url("http://127.0.0.1:8000/static/images/Welcome.jpg")', backgroundImg, "Image is incorrect. Welcome")
+        self.assertEquals('url("https://davidcloak.github.io/DjangoStaticFile/Interactive/images/Welcome.jpg")', backgroundImg, "Image is incorrect. Welcome")
 
         gameLink = self.browser.find_element_by_id('first')
         gameLink.click()
@@ -274,7 +275,7 @@ class StyleAndLayoutTest(unittest.TestCase):
         self.assertEquals("rgb(0, 0, 0)", background, "Background color is incorrect. Forsest")
 
         backgroundImg = self.browser.find_element_by_id('image').value_of_css_property('background-image')
-        self.assertEquals('url("http://127.0.0.1:8000/static/images/Forest.jpg")', backgroundImg, "Image is incorrect. Forest")
+        self.assertEquals('url("https://davidcloak.github.io/DjangoStaticFile/Interactive/images/Forest.jpg")', backgroundImg, "Image is incorrect. Forest")
 
         self.browser.get('http://127.0.0.1:8000/Game')
         gameLink = self.browser.find_element_by_id('second')
@@ -284,7 +285,7 @@ class StyleAndLayoutTest(unittest.TestCase):
         self.assertEquals("rgb(0, 0, 0)", background, "Background color is incorrect. Sea")
 
         backgroundImg = self.browser.find_element_by_id('image').value_of_css_property('background-image')
-        self.assertEquals('url("http://127.0.0.1:8000/static/images/Sea.jpg")', backgroundImg, "Image is incorrect. Sea")
+        self.assertEquals('url("https://davidcloak.github.io/DjangoStaticFile/Interactive/images/Sea.jpg")', backgroundImg, "Image is incorrect. Sea")
 
         self.browser.get('http://127.0.0.1:8000/Game')
         gameLink = self.browser.find_element_by_id('third')
@@ -294,7 +295,7 @@ class StyleAndLayoutTest(unittest.TestCase):
         self.assertEquals("rgb(0, 0, 0)", background, "Background color is incorrect. Cave")
 
         backgroundImg = self.browser.find_element_by_id('image').value_of_css_property('background-image')
-        self.assertEquals('url("http://127.0.0.1:8000/static/images/Cave.jpg")', backgroundImg, "Image is incorrect. Cave")
+        self.assertEquals('url("https://davidcloak.github.io/DjangoStaticFile/Interactive/images/Cave.jpg")', backgroundImg, "Image is incorrect. Cave")
 
     def testGameEndPage(self):
         self.browser.get('http://127.0.0.1:8000/GameEnd')
@@ -312,6 +313,60 @@ class StyleAndLayoutTest(unittest.TestCase):
 
         endScreen = self.browser.find_element_by_id('endMessage').value_of_css_property('color')
         self.assertEquals("rgb(255, 0, 0)", endScreen, "Color of text is incorrect.")
+
+
+
+class MarioGameAddonTests(unittest.TestCase):
+    def setUp(self):
+        fireFoxOptions = webdriver.FirefoxOptions()
+        fireFoxOptions.headless=True
+        self.browser = webdriver.Firefox(options=fireFoxOptions)
+        self.browser.get('http://127.0.0.1:8000')
+    
+    def tearDown(self):
+         self.browser.quit()
+
+    def testMarioGameNavLinkHome(self):
+        self.browser.get('http://127.0.0.1:8000/Home')
+        self.browser.set_window_size(1024, 768)
+
+        button = self.browser.find_element_by_id('MarioGameBtn')
+        button.click()
+        
+        screan = self.browser.find_element_by_id('content')
+        self.assertAlmostEqual(
+            screan.location['x'] + screan.size['width'] / 2,
+            512,
+            delta=10
+        )
+
+    def testMarioGameNavLinkGame(self):
+        self.browser.get('http://127.0.0.1:8000/Game')
+        self.browser.set_window_size(1024, 768)
+
+        button = self.browser.find_element_by_id('MarioGameBtn')
+        button.click()
+
+        screan = self.browser.find_element_by_id('content')
+        self.assertAlmostEqual(
+            screan.location['x'] + screan.size['width'] / 2,
+            512,
+            delta=10
+        )
+
+    def testMarioGameNavLinkGameEnd(self):
+        self.browser.get('http://127.0.0.1:8000/GameEnd')
+        self.browser.set_window_size(1024, 768)
+
+        button = self.browser.find_element_by_id('MarioGameBtn')
+        button.click()
+
+        screan = self.browser.find_element_by_id('content')
+        self.assertAlmostEqual(
+            screan.location['x'] + screan.size['width'] / 2,
+            512,
+            delta=10
+        )
 
 if __name__ == '__main__':
     #calls the class if it is not instantiated elsewhere

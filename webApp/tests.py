@@ -9,7 +9,7 @@ class StartPageTest(TestCase):
 
     def test_uses_index_template(self):
         response = self.client.get('/')
-        self.assertTemplateUsed(response, 'index.html')
+        self.assertTemplateUsed(response, 'start.html')
 
     def test_StartPage_returns_correct_html(self):
         request = HttpRequest()
@@ -102,4 +102,18 @@ class GameEndPageTest(TestCase):
         html = response.content.decode('utf8')
         self.assertTrue(html.startswith('<html>'))
         self.assertIn('<title>Game Over</title>', html)
+        self.assertTrue(html.endswith('</html>'))
+
+class MarioGame(TestCase):
+    
+    def test_uses_MarioGame_template(self):
+        response = self.client.get('/Mario')
+        self.assertTemplateUsed(response, 'index.html')
+
+    def test_MarioGamePage_returns_correct_html(self):
+        request = HttpRequest()
+        response = webApp.views.MarioGamePage(request)
+        html = response.content.decode('utf8')
+        self.assertTrue(html.startswith('<html>'))
+        self.assertIn('<title>Mario Knock Off</title>', html)
         self.assertTrue(html.endswith('</html>'))

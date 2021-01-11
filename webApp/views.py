@@ -26,7 +26,7 @@ Options = {
 
 
 def StartPage(request):
-    return render(request, 'index.html')
+    return render(request, 'start.html')
 
 def FormPage(request):
         return render(request, 'createUser.html')
@@ -87,3 +87,6 @@ def GameEndPage(request):
     content['gamelists'] = "You shouldn't be here yet!"+content['model'].fName
     content['position'] = 0
     return render(request, 'GameEnd.html', content)
+
+def MarioGamePage(request):
+    return render(request, 'index.html')

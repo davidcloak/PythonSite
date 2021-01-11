@@ -4297,3 +4297,1494 @@ console.error: services.settings:
   main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
 console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
 console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+1610080366763	geckodriver	INFO	Listening on 127.0.0.1:62090
+1610080369823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileeapacV"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610080372082	Marionette	INFO	Listening on port 62103
+1610080372493	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610080375038	Marionette	INFO	Stopped listening on port 62103
+1610080375475	geckodriver	INFO	Listening on 127.0.0.1:62151
+1610080378528	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileEsulzT"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610080379649	Marionette	INFO	Listening on port 62161
+1610080380062	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610080385074	Marionette	INFO	Stopped listening on port 62161
+1610080385513	geckodriver	INFO	Listening on 127.0.0.1:62230
+1610080388592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilerwQ6gZ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610080389693	Marionette	INFO	Listening on port 62239
+1610080390136	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610080392245	Marionette	INFO	Stopped listening on port 62239
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1610080393427	geckodriver	INFO	Listening on 127.0.0.1:62307
+1610080396503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilexJho5C"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610080397486	Marionette	INFO	Listening on port 62316
+1610080397543	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610080398128	Marionette	INFO	Stopped listening on port 62316
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1610080398656	geckodriver	INFO	Listening on 127.0.0.1:62359
+1610080401702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileVNvPkA"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610080402796	Marionette	INFO	Listening on port 62369
+1610080403253	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610080403890	Marionette	INFO	Stopped listening on port 62369
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1610080404312	geckodriver	INFO	Listening on 127.0.0.1:62417
+1610080407397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilexBSdu1"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610080408476	Marionette	INFO	Listening on port 62426
+1610080408934	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610080409575	Marionette	INFO	Stopped listening on port 62426
+1610080410009	geckodriver	INFO	Listening on 127.0.0.1:62467
+1610080413049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileDyh4Es"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610080414233	Marionette	INFO	Listening on port 62477
+1610080414577	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610080416135	Marionette	INFO	Stopped listening on port 62477
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610080417406	geckodriver	INFO	Listening on 127.0.0.1:62525
+1610080420498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileWEFU38"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610080421554	Marionette	INFO	Listening on port 62534
+1610080422041	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610080423066	Marionette	INFO	Stopped listening on port 62534
+1610080423486	geckodriver	INFO	Listening on 127.0.0.1:62580
+1610080426584	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilelihxwR"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610080427783	Marionette	INFO	Listening on port 62591
+1610080428108	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610080430200	Marionette	INFO	Stopped listening on port 62591
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610080430609	geckodriver	INFO	Listening on 127.0.0.1:62645
+1610080433688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileePJyMm"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610080434834	Marionette	INFO	Listening on port 62654
+1610080435241	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610080435835	Marionette	INFO	Stopped listening on port 62654
+1610085380084	geckodriver	INFO	Listening on 127.0.0.1:65362
+1610085383172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilep6xT7p"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610085385470	Marionette	INFO	Listening on port 65372
+1610085385831	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610085387506	Marionette	INFO	Stopped listening on port 65372
+1610085388684	geckodriver	INFO	Listening on 127.0.0.1:65426
+1610085391769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileDXWjwH"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610085395806	Marionette	INFO	Listening on port 65443
+1610085395985	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610085398884	Marionette	INFO	Stopped listening on port 65443
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 968: TypeError: this._storage is null
+[Parent 10140, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to stat
+1610085467879	geckodriver	INFO	Listening on 127.0.0.1:65528
+1610085470967	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileLSS1H9"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610085471922	Marionette	INFO	Listening on port 49156
+1610085471986	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610085473662	Marionette	INFO	Stopped listening on port 49156
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1610085474625	geckodriver	INFO	Listening on 127.0.0.1:49200
+1610085477705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileZ5mmVw"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610085478808	Marionette	INFO	Listening on port 49209
+1610085479255	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610085480020	Marionette	INFO	Stopped listening on port 49209
+1610085480660	geckodriver	INFO	Listening on 127.0.0.1:49258
+1610085483738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileTL0H1N"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610085484814	Marionette	INFO	Listening on port 49270
+1610085485293	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610085486212	Marionette	INFO	Stopped listening on port 49270
+1610085486633	geckodriver	INFO	Listening on 127.0.0.1:49316
+1610085489702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofiledXoDf9"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610085490788	Marionette	INFO	Listening on port 49325
+1610085491241	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610085491732	Marionette	INFO	Stopped listening on port 49325
+1610085492151	geckodriver	INFO	Listening on 127.0.0.1:49369
+1610085495225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileW4EaAr"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610085496322	Marionette	INFO	Listening on port 49378
+1610085496762	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610085497581	Marionette	INFO	Stopped listening on port 49378
+1610085498004	geckodriver	INFO	Listening on 127.0.0.1:49426
+1610085501081	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileQjLe49"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610085502088	Marionette	INFO	Listening on port 49438
+1610085502128	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610085503411	Marionette	INFO	Stopped listening on port 49438
+1610085503833	geckodriver	INFO	Listening on 127.0.0.1:49486
+1610085506921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileeybcPf"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610085508004	Marionette	INFO	Listening on port 49497
+1610085508471	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610085509533	Marionette	INFO	Stopped listening on port 49497
+1610085509956	geckodriver	INFO	Listening on 127.0.0.1:49548
+1610085513031	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileoiL8r1"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610085514084	Marionette	INFO	Listening on port 49557
+1610085514582	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610085515090	Marionette	INFO	Stopped listening on port 49557
+1610313007943	geckodriver	INFO	Listening on 127.0.0.1:65410
+1610313011022	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilevUJX15"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313013260	Marionette	INFO	Listening on port 65418
+1610313013680	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610313015814	Marionette	INFO	Stopped listening on port 65418
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610313016464	geckodriver	INFO	Listening on 127.0.0.1:65459
+1610313019549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilekCRV8B"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313020742	Marionette	INFO	Listening on port 65467
+1610313021078	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610313023513	Marionette	INFO	Stopped listening on port 65467
+1610313024810	geckodriver	INFO	Listening on 127.0.0.1:65516
+1610313027895	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofiletaG3nn"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313029048	Marionette	INFO	Listening on port 65524
+1610313029435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610313031058	Marionette	INFO	Stopped listening on port 65524
+1610313032476	geckodriver	INFO	Listening on 127.0.0.1:49193
+1610313035558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilezuDJEr"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313036782	Marionette	INFO	Listening on port 49202
+1610313037089	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610313038115	Marionette	INFO	Stopped listening on port 49202
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1610313039728	geckodriver	INFO	Listening on 127.0.0.1:49244
+1610313042796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofile1wvUH6"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313043920	Marionette	INFO	Listening on port 49252
+1610313044339	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1610313049028	Marionette	INFO	Stopped listening on port 49252
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1610313051498	geckodriver	INFO	Listening on 127.0.0.1:49283
+1610313054559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilek2A9Cx"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313055668	Marionette	INFO	Listening on port 49292
+1610313056105	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610313056962	Marionette	INFO	Stopped listening on port 49292
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+1610313058356	geckodriver	INFO	Listening on 127.0.0.1:49321
+1610313061427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofiletnGk7g"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313062536	Marionette	INFO	Listening on port 49329
+1610313062977	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610313063817	Marionette	INFO	Stopped listening on port 49329
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+1610313065436	geckodriver	INFO	Listening on 127.0.0.1:49361
+1610313068494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileJ0XkJA"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313069613	Marionette	INFO	Listening on port 49370
+1610313070027	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610313070812	Marionette	INFO	Stopped listening on port 49370
+1610313072133	geckodriver	INFO	Listening on 127.0.0.1:49411
+1610313075241	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileJKnzhb"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313076354	Marionette	INFO	Listening on port 49421
+1610313076785	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610313077696	Marionette	INFO	Stopped listening on port 49421
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+1610313078530	geckodriver	INFO	Listening on 127.0.0.1:49452
+1610313081613	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofile00RJSw"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313082714	Marionette	INFO	Listening on port 49460
+1610313083156	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610313085284	Marionette	INFO	Stopped listening on port 49460
+1610313225788	geckodriver	INFO	Listening on 127.0.0.1:49521
+1610313229875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilep5z7Z5"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313230922	Marionette	INFO	Listening on port 49529
+1610313231390	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610313233114	Marionette	INFO	Stopped listening on port 49529
+1610313233655	geckodriver	INFO	Listening on 127.0.0.1:49575
+1610313236735	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileYIqHB3"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313237857	Marionette	INFO	Listening on port 49583
+1610313238277	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610313239636	Marionette	INFO	Stopped listening on port 49583
+1610313240074	geckodriver	INFO	Listening on 127.0.0.1:49641
+1610313243135	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilegVWoM1"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313244236	Marionette	INFO	Listening on port 49658
+1610313244670	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610313246385	Marionette	INFO	Stopped listening on port 49658
+1610313426867	geckodriver	INFO	Listening on 127.0.0.1:49734
+1610313429920	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofile6BKdSX"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313431056	Marionette	INFO	Listening on port 49742
+1610313431448	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610313433022	Marionette	INFO	Stopped listening on port 49742
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610313433794	geckodriver	INFO	Listening on 127.0.0.1:49979
+1610313436865	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilefN1Veq"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313438008	Marionette	INFO	Listening on port 49987
+1610313438410	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610313439529	Marionette	INFO	Stopped listening on port 49987
+[Parent 21488, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1610313439952	geckodriver	INFO	Listening on 127.0.0.1:50200
+1610313443056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileLbIUf8"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313444226	Marionette	INFO	Listening on port 50208
+1610313444607	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610313446257	Marionette	INFO	Stopped listening on port 50208
+1610313447008	geckodriver	INFO	Listening on 127.0.0.1:50259
+1610313450093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilePZxhGE"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313451270	Marionette	INFO	Listening on port 50267
+1610313451637	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610313452745	Marionette	INFO	Stopped listening on port 50267
+1610313453176	geckodriver	INFO	Listening on 127.0.0.1:50303
+1610313456243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofile66xltt"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313457460	Marionette	INFO	Listening on port 50311
+1610313457792	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610313458588	Marionette	INFO	Stopped listening on port 50311
+1610313459123	geckodriver	INFO	Listening on 127.0.0.1:50352
+1610313462210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileSy6Abw"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313463341	Marionette	INFO	Listening on port 50360
+1610313463757	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610313464594	Marionette	INFO	Stopped listening on port 50360
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610313465033	geckodriver	INFO	Listening on 127.0.0.1:50408
+1610313468081	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofile7E6Azg"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313469292	Marionette	INFO	Listening on port 50416
+1610313469609	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610313470053	Marionette	INFO	Stopped listening on port 50416
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1610313707452	geckodriver	INFO	Listening on 127.0.0.1:50469
+1610313710536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilezhSy30"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313711689	Marionette	INFO	Listening on port 50477
+1610313712085	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610313718798	Marionette	INFO	Stopped listening on port 50477
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1610313721177	geckodriver	INFO	Listening on 127.0.0.1:50527
+1610313724233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilePl7dbx"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313725439	Marionette	INFO	Listening on port 50535
+1610313725784	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1610313733800	Marionette	INFO	Stopped listening on port 50535
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1610313735868	geckodriver	INFO	Listening on 127.0.0.1:50575
+1610313738926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileC0JshC"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313740035	Marionette	INFO	Listening on port 50583
+1610313740474	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610313743304	Marionette	INFO	Stopped listening on port 50583
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610313745683	geckodriver	INFO	Listening on 127.0.0.1:50647
+1610313748757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileSU4txh"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313749872	Marionette	INFO	Listening on port 50655
+1610313750297	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1610313756160	Marionette	INFO	Stopped listening on port 50655
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610313758632	geckodriver	INFO	Listening on 127.0.0.1:50685
+1610313761704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilewXIm9e"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313762822	Marionette	INFO	Listening on port 50693
+1610313763252	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1610313774486	Marionette	INFO	Stopped listening on port 50693
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1610313776965	geckodriver	INFO	Listening on 127.0.0.1:50725
+1610313780018	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofile5U8J3j"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313780991	Marionette	INFO	Listening on port 50733
+1610313781048	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1610313786295	Marionette	INFO	Stopped listening on port 50733
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1610313788664	geckodriver	INFO	Listening on 127.0.0.1:50759
+1610313791748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileBksXbk"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313792836	Marionette	INFO	Listening on port 50767
+1610313793286	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610313793674	Marionette	INFO	Stopped listening on port 50767
+1610313794303	geckodriver	INFO	Listening on 127.0.0.1:50799
+1610313797373	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileVrvnZB"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313798500	Marionette	INFO	Listening on port 50807
+1610313798921	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610313799734	Marionette	INFO	Stopped listening on port 50807
+1610313800267	geckodriver	INFO	Listening on 127.0.0.1:50846
+1610313803321	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileWVAhXD"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313804469	Marionette	INFO	Listening on port 50854
+1610313804862	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610313807124	Marionette	INFO	Stopped listening on port 50854
+1610313807584	geckodriver	INFO	Listening on 127.0.0.1:50921
+1610313810662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileGA2Nf7"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313811744	Marionette	INFO	Listening on port 50930
+1610313812210	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610313814113	Marionette	INFO	Stopped listening on port 50930
+1610313939101	geckodriver	INFO	Listening on 127.0.0.1:50981
+1610313942214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileJwGAKb"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313943310	Marionette	INFO	Listening on port 50989
+1610313943744	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1610313948935	Marionette	INFO	Stopped listening on port 50989
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1610313951323	geckodriver	INFO	Listening on 127.0.0.1:51025
+1610313954398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileFFURt7"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313955512	Marionette	INFO	Listening on port 51033
+1610313955925	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610313956993	Marionette	INFO	Stopped listening on port 51033
+1610313958093	geckodriver	INFO	Listening on 127.0.0.1:51079
+1610313961172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilelCN991"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313962291	Marionette	INFO	Listening on port 51087
+1610313962704	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610313963924	Marionette	INFO	Stopped listening on port 51087
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610313964353	geckodriver	INFO	Listening on 127.0.0.1:51144
+1610313967429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilekB1bAE"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313968538	Marionette	INFO	Listening on port 51152
+1610313968975	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610313969717	Marionette	INFO	Stopped listening on port 51152
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1610313970473	geckodriver	INFO	Listening on 127.0.0.1:51197
+1610313973564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilecTmhOo"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313974861	Marionette	INFO	Listening on port 51205
+1610313975185	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610313976937	Marionette	INFO	Stopped listening on port 51205
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 928: Error: Connection is not open.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 928: Error: Connection is not open.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 928: Error: Connection is not open.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 928: Error: Connection is not open.
+1610313978798	geckodriver	INFO	Listening on 127.0.0.1:51247
+1610313981878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilen6dluR"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610313988628	Marionette	INFO	Listening on port 51255
+1610313988831	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610313989187	Marionette	INFO	Stopped listening on port 51255
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 968: TypeError: this._storage is null
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 122: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 928: Error: Connection is not open.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1610313994099	geckodriver	INFO	Listening on 127.0.0.1:51286
+1610313997224	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilePt1sBF"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610314002268	Marionette	INFO	Listening on port 51294
+1610314002565	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610314004048	Marionette	INFO	Stopped listening on port 51294
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1610314004606	geckodriver	INFO	Listening on 127.0.0.1:51336
+1610314007664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileyHbxOi"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610314008771	Marionette	INFO	Listening on port 51344
+1610314009209	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610314009994	Marionette	INFO	Stopped listening on port 51344
+1610314010431	geckodriver	INFO	Listening on 127.0.0.1:51388
+1610314013500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileYXQzuH"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610314014634	Marionette	INFO	Listening on port 51396
+1610314015048	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610314016995	Marionette	INFO	Stopped listening on port 51396
+1610314017422	geckodriver	INFO	Listening on 127.0.0.1:51462
+1610314020476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileYGM4B1"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610314021561	Marionette	INFO	Listening on port 51470
+1610314022018	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610314022583	Marionette	INFO	Stopped listening on port 51470
+1610314199094	geckodriver	INFO	Listening on 127.0.0.1:51552
+1610314202165	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileyXNO4b"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610314203299	Marionette	INFO	Listening on port 51563
+1610314203712	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610314205010	Marionette	INFO	Stopped listening on port 51563
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610314205646	geckodriver	INFO	Listening on 127.0.0.1:51612
+1610314208727	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileI4WHL0"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610314209803	Marionette	INFO	Listening on port 51620
+1610314210248	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610314211200	Marionette	INFO	Stopped listening on port 51620
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610314211622	geckodriver	INFO	Listening on 127.0.0.1:51674
+1610314214717	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofiletSEXBu"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610314215810	Marionette	INFO	Listening on port 51682
+1610314216259	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610314217623	Marionette	INFO	Stopped listening on port 51682
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610314218052	geckodriver	INFO	Listening on 127.0.0.1:51741
+1610314221120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileetm5k5"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610314222212	Marionette	INFO	Listening on port 51749
+1610314222651	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610314225054	Marionette	INFO	Stopped listening on port 51749
+1610314225495	geckodriver	INFO	Listening on 127.0.0.1:51813
+1610314228578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilexDhH1O"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610314229633	Marionette	INFO	Listening on port 51821
+1610314230121	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610314231587	Marionette	INFO	Stopped listening on port 51821
+1610314232327	geckodriver	INFO	Listening on 127.0.0.1:51862
+1610314235431	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilebUzc7o"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610314236557	Marionette	INFO	Listening on port 51870
+1610314236966	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610314238635	Marionette	INFO	Stopped listening on port 51870
+1610314241016	geckodriver	INFO	Listening on 127.0.0.1:51914
+1610314244109	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileJF26RM"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610314245230	Marionette	INFO	Listening on port 51922
+1610314245640	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610314246135	Marionette	INFO	Stopped listening on port 51922
+1610314246987	geckodriver	INFO	Listening on 127.0.0.1:51958
+1610314250044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilex3AmB7"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610314251144	Marionette	INFO	Listening on port 51966
+1610314251600	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610314252302	Marionette	INFO	Stopped listening on port 51966
+1610314252944	geckodriver	INFO	Listening on 127.0.0.1:52008
+1610314256067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileyghS1G"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610314257185	Marionette	INFO	Listening on port 52016
+1610314257614	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610314258284	Marionette	INFO	Stopped listening on port 52016
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 15048, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+[Parent 15048, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1610314259790	geckodriver	INFO	Listening on 127.0.0.1:52050
+1610314262872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilenBGKEN"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610314263978	Marionette	INFO	Listening on port 52058
+1610314264413	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610314265221	Marionette	INFO	Stopped listening on port 52058
+1610314265859	geckodriver	INFO	Listening on 127.0.0.1:52099
+1610314268944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileLwbyRn"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610314270102	Marionette	INFO	Listening on port 52107
+1610314270487	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610314271151	Marionette	INFO	Stopped listening on port 52107
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1610314271784	geckodriver	INFO	Listening on 127.0.0.1:52147
+1610314274858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileiZi43O"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610314276004	Marionette	INFO	Listening on port 52155
+1610314276410	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610314280930	Marionette	INFO	Stopped listening on port 52155
+1610314281701	geckodriver	INFO	Listening on 127.0.0.1:52226
+1610314284788	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofile2q9E5j"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610314285876	Marionette	INFO	Listening on port 52234
+1610314286323	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610314288284	Marionette	INFO	Stopped listening on port 52234
+1610317568610	geckodriver	INFO	Listening on 127.0.0.1:52449
+1610317571695	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilezvENG3"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610317572775	Marionette	INFO	Listening on port 52457
+1610317573242	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610317575317	Marionette	INFO	Stopped listening on port 52457
+1610317575962	geckodriver	INFO	Listening on 127.0.0.1:52504
+1610317579051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileT13j71"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610317580181	Marionette	INFO	Listening on port 52512
+1610317580582	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610317581719	Marionette	INFO	Stopped listening on port 52512
+1610317582465	geckodriver	INFO	Listening on 127.0.0.1:52564
+1610317585572	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilevMaJPv"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610317586660	Marionette	INFO	Listening on port 52572
+1610317587104	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610317588747	Marionette	INFO	Stopped listening on port 52572
+1610317589416	geckodriver	INFO	Listening on 127.0.0.1:52623
+1610317592499	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofile1OoMnF"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610317593587	Marionette	INFO	Listening on port 52631
+1610317594050	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610317594751	Marionette	INFO	Stopped listening on port 52631
+1610317595183	geckodriver	INFO	Listening on 127.0.0.1:52680
+1610317598264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofile1tmHsd"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610317599330	Marionette	INFO	Listening on port 52688
+1610317599817	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610317600476	Marionette	INFO	Stopped listening on port 52688
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610317600896	geckodriver	INFO	Listening on 127.0.0.1:52733
+1610317603980	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileRNddri"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610317605035	Marionette	INFO	Listening on port 52741
+1610317605509	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610317606160	Marionette	INFO	Stopped listening on port 52741
+1610317606578	geckodriver	INFO	Listening on 127.0.0.1:52786
+1610317609650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileTpwh2u"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610317610668	Marionette	INFO	Listening on port 52794
+1610317611180	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610317612645	Marionette	INFO	Stopped listening on port 52794
+1610317613844	geckodriver	INFO	Listening on 127.0.0.1:52846
+1610317616934	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileN0M34l"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610317617892	Marionette	INFO	Listening on port 52854
+1610317617985	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610317618474	Marionette	INFO	Stopped listening on port 52854
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+1610317618900	geckodriver	INFO	Listening on 127.0.0.1:52888
+1610317621994	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileTrCoXK"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610317623061	Marionette	INFO	Listening on port 52896
+1610317623550	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610317624758	Marionette	INFO	Stopped listening on port 52896
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1610317625292	geckodriver	INFO	Listening on 127.0.0.1:52936
+1610317628391	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilehIRqt8"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610317629478	Marionette	INFO	Listening on port 52944
+1610317629924	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610317630402	Marionette	INFO	Stopped listening on port 52944
+1610317631047	geckodriver	INFO	Listening on 127.0.0.1:52985
+1610317634137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileYvrgT5"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610317635264	Marionette	INFO	Listening on port 52993
+1610317635685	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610317636476	Marionette	INFO	Stopped listening on port 52993
+1610317636900	geckodriver	INFO	Listening on 127.0.0.1:53038
+1610317639966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileryXZDw"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610317641102	Marionette	INFO	Listening on port 53046
+1610317641519	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610317642961	Marionette	INFO	Stopped listening on port 53046
+1610317643388	geckodriver	INFO	Listening on 127.0.0.1:53110
+1610317646475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilelL5BbJ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610317647587	Marionette	INFO	Listening on port 53118
+1610317648010	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610317648668	Marionette	INFO	Stopped listening on port 53118
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1610318583350	geckodriver	INFO	Listening on 127.0.0.1:53273
+1610318586423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileXoGt3B"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610318587380	Marionette	INFO	Listening on port 53281
+1610318587451	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610318589294	Marionette	INFO	Stopped listening on port 53281
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1610318590597	geckodriver	INFO	Listening on 127.0.0.1:53322
+1610318593671	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilesMtAX1"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610318594774	Marionette	INFO	Listening on port 53331
+1610318595205	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610318596611	Marionette	INFO	Stopped listening on port 53331
+1610318597044	geckodriver	INFO	Listening on 127.0.0.1:53390
+1610318600110	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileAZtoMg"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610318601125	Marionette	INFO	Listening on port 53400
+1610318601642	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610318603341	Marionette	INFO	Stopped listening on port 53400
+1610318605192	geckodriver	INFO	Listening on 127.0.0.1:53463
+1610318608324	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileQ646rO"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610318612258	Marionette	INFO	Listening on port 53471
+1610318612540	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610318615186	Marionette	INFO	Stopped listening on port 53471
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 968: TypeError: this._storage is null
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 122: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 928: Error: Connection is not open.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 928: Error: Connection is not open.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 928: Error: Connection is not open.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 928: Error: Connection is not open.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 928: Error: Connection is not open.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 928: Error: Connection is not open.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to stat
+1610318684444	geckodriver	INFO	Listening on 127.0.0.1:53520
+1610318687526	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofiledMARJL"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610318688628	Marionette	INFO	Listening on port 53528
+1610318689068	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610318689732	Marionette	INFO	Stopped listening on port 53528
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1610318690270	geckodriver	INFO	Listening on 127.0.0.1:53561
+1610318693329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofiledrVB6j"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610318694426	Marionette	INFO	Listening on port 53569
+1610318694866	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610318695535	Marionette	INFO	Stopped listening on port 53569
+1610318695958	geckodriver	INFO	Listening on 127.0.0.1:53606
+1610318699038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilePEEfLb"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610318700117	Marionette	INFO	Listening on port 53614
+1610318700584	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610318701002	Marionette	INFO	Stopped listening on port 53614
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610318701423	geckodriver	INFO	Listening on 127.0.0.1:53659
+1610318704505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofile7078i5"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610318705609	Marionette	INFO	Listening on port 53667
+1610318706055	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610318706684	Marionette	INFO	Stopped listening on port 53667
+1610318707115	geckodriver	INFO	Listening on 127.0.0.1:53715
+1610318710234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileuxfay2"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610318711232	Marionette	INFO	Listening on port 53723
+1610318711265	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610318712096	Marionette	INFO	Stopped listening on port 53723
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1610318712609	geckodriver	INFO	Listening on 127.0.0.1:53760
+1610318715692	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileUr5D2u"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610318716763	Marionette	INFO	Listening on port 53768
+1610318717233	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610318718169	Marionette	INFO	Stopped listening on port 53768
+1610318718596	geckodriver	INFO	Listening on 127.0.0.1:53814
+1610318721683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileVXY8XO"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610318722832	Marionette	INFO	Listening on port 53822
+1610318723220	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610318724047	Marionette	INFO	Stopped listening on port 53822
+1610318724685	geckodriver	INFO	Listening on 127.0.0.1:53870
+1610318727748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofile2L2OxJ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610318728903	Marionette	INFO	Listening on port 53878
+1610318729308	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610318731230	Marionette	INFO	Stopped listening on port 53878
+1610318732752	geckodriver	INFO	Listening on 127.0.0.1:53929
+1610318735814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofile7hkqws"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610318736903	Marionette	INFO	Listening on port 53937
+1610318737352	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610318738073	Marionette	INFO	Stopped listening on port 53937
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610318906462	geckodriver	INFO	Listening on 127.0.0.1:54016
+1610318909542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilegLOR9L"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610318910496	Marionette	INFO	Listening on port 54024
+1610318910567	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610318913828	Marionette	INFO	Stopped listening on port 54024
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+1610318915004	geckodriver	INFO	Listening on 127.0.0.1:54059
+1610318918092	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofile9RS5dC"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610318919136	Marionette	INFO	Listening on port 54067
+1610318919635	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610318921500	Marionette	INFO	Stopped listening on port 54067
+1610318922247	geckodriver	INFO	Listening on 127.0.0.1:54119
+1610318925336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilekoHOXL"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610318926422	Marionette	INFO	Listening on port 54127
+1610318926878	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610318928356	Marionette	INFO	Stopped listening on port 54127
+1610318928789	geckodriver	INFO	Listening on 127.0.0.1:54184
+1610318931855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofiles2rvz6"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610318932956	Marionette	INFO	Listening on port 54192
+1610318933394	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610318934622	Marionette	INFO	Stopped listening on port 54192
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/osfile/osfile_native.jsm, line 64: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsINativeOSFileInternalsService.read]
+1610318935254	geckodriver	INFO	Listening on 127.0.0.1:54244
+1610318938336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileQ0hSlc"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610318939404	Marionette	INFO	Listening on port 54252
+1610318939867	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1610318940904	Marionette	INFO	Stopped listening on port 54252
+1610318941659	geckodriver	INFO	Listening on 127.0.0.1:54300
+1610318944744	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofile5PHAGv"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610318945835	Marionette	INFO	Listening on port 54308
+1610318946292	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1610318947144	Marionette	INFO	Stopped listening on port 54308
+1610318947576	geckodriver	INFO	Listening on 127.0.0.1:54354
+1610318950624	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileahQfni"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610318951754	Marionette	INFO	Listening on port 54362
+1610318952164	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1610318953474	Marionette	INFO	Stopped listening on port 54362
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1610318954126	geckodriver	INFO	Listening on 127.0.0.1:54415
+1610318957195	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofile18grJ8"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610318958284	Marionette	INFO	Listening on port 54424
+1610318958756	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610318959709	Marionette	INFO	Stopped listening on port 54424
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610318960142	geckodriver	INFO	Listening on 127.0.0.1:54472
+1610318963235	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilekY4oxD"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610318964340	Marionette	INFO	Listening on port 54480
+1610318964766	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610318965562	Marionette	INFO	Stopped listening on port 54480
+1610318965981	geckodriver	INFO	Listening on 127.0.0.1:54523
+1610318969043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofile246ggk"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610318970129	Marionette	INFO	Listening on port 54531
+1610318970587	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610318972411	Marionette	INFO	Stopped listening on port 54531
+1610318973721	geckodriver	INFO	Listening on 127.0.0.1:54586
+1610318976818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileFpOXse"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610318977827	Marionette	INFO	Listening on port 54594
+1610318977856	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610318978525	Marionette	INFO	Stopped listening on port 54594
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1610318979056	geckodriver	INFO	Listening on 127.0.0.1:54633
+1610318982141	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofile2erAey"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610318983115	Marionette	INFO	Listening on port 54641
+1610318983187	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610318984571	Marionette	INFO	Stopped listening on port 54641
+1610318984994	geckodriver	INFO	Listening on 127.0.0.1:54699
+1610318988084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilepg2I47"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610318989189	Marionette	INFO	Listening on port 54707
+1610318989616	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610318990263	Marionette	INFO	Stopped listening on port 54707
+1610319213315	geckodriver	INFO	Listening on 127.0.0.1:54782
+1610319216401	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofile6lhsyI"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610319217416	Marionette	INFO	Listening on port 54790
+1610319217449	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610319219278	Marionette	INFO	Stopped listening on port 54790
+1610319221398	geckodriver	INFO	Listening on 127.0.0.1:54835
+1610319224491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileWDEDoQ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610319228912	Marionette	INFO	Listening on port 54843
+1610319229324	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610319233635	Marionette	INFO	Stopped listening on port 54843
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 968: TypeError: this._storage is null
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 122: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 928: Error: Connection is not open.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1610319239171	geckodriver	INFO	Listening on 127.0.0.1:54892
+1610319242272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilepVrZoZ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610319247566	Marionette	INFO	Listening on port 54900
+1610319247620	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610319248922	Marionette	INFO	Stopped listening on port 54900
+1610319249371	geckodriver	INFO	Listening on 127.0.0.1:54954
+1610319252471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofile4IlvCn"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610319253529	Marionette	INFO	Listening on port 54962
+1610319254016	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610319255795	Marionette	INFO	Stopped listening on port 54962
+1610319256339	geckodriver	INFO	Listening on 127.0.0.1:55024
+1610319259402	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileuR0I4v"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610319260531	Marionette	INFO	Listening on port 55032
+1610319260931	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1610319261997	Marionette	INFO	Stopped listening on port 55032
+1610319263204	geckodriver	INFO	Listening on 127.0.0.1:55077
+1610319266275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileajvyuB"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610319267404	Marionette	INFO	Listening on port 55088
+1610319267831	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1610319268523	Marionette	INFO	Stopped listening on port 55088
+1610319268961	geckodriver	INFO	Listening on 127.0.0.1:55126
+1610319272047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilexofLEZ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610319273059	Marionette	INFO	Listening on port 55135
+1610319273076	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1610319273939	Marionette	INFO	Stopped listening on port 55135
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1610319274468	geckodriver	INFO	Listening on 127.0.0.1:55177
+1610319277557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileSHRER6"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610319278656	Marionette	INFO	Listening on port 55187
+1610319279110	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610319280015	Marionette	INFO	Stopped listening on port 55187
+1610319280445	geckodriver	INFO	Listening on 127.0.0.1:55234
+1610319283511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileRRJXFB"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610319284618	Marionette	INFO	Listening on port 55242
+1610319285042	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610319285881	Marionette	INFO	Stopped listening on port 55242
+1610319286311	geckodriver	INFO	Listening on 127.0.0.1:55282
+1610319289378	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilewTURLw"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610319290487	Marionette	INFO	Listening on port 55291
+1610319290921	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610319291925	Marionette	INFO	Stopped listening on port 55291
+1610319292351	geckodriver	INFO	Listening on 127.0.0.1:55339
+1610319295436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileKvr3Jz"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610319296566	Marionette	INFO	Listening on port 55347
+1610319296986	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610319298021	Marionette	INFO	Stopped listening on port 55347
+1610319298429	geckodriver	INFO	Listening on 127.0.0.1:55391
+1610319301508	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileKZ3hjo"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610319302598	Marionette	INFO	Listening on port 55399
+1610319303054	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610319304884	Marionette	INFO	Stopped listening on port 55399
+1610319305320	geckodriver	INFO	Listening on 127.0.0.1:55469
+1610319308394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofile4w5UQD"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610319309497	Marionette	INFO	Listening on port 55477
+1610319309934	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610319310424	Marionette	INFO	Stopped listening on port 55477
+1610323207661	geckodriver	INFO	Listening on 127.0.0.1:55943
+1610323210720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileRZJ5v8"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610323211968	Marionette	INFO	Listening on port 55951
+1610323212246	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610323214054	Marionette	INFO	Stopped listening on port 55951
+1610323215569	geckodriver	INFO	Listening on 127.0.0.1:56000
+1610323218631	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileV5eq3P"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610323219811	Marionette	INFO	Listening on port 56008
+1610323220177	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610323222307	Marionette	INFO	Stopped listening on port 56008
+1610323223297	geckodriver	INFO	Listening on 127.0.0.1:56076
+1610323226367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofile4ifVRs"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610323227461	Marionette	INFO	Listening on port 56084
+1610323227913	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610323229320	Marionette	INFO	Stopped listening on port 56084
+1610323229756	geckodriver	INFO	Listening on 127.0.0.1:56143
+1610323232828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileoPxWlz"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610323234298	Marionette	INFO	Listening on port 56151
+1610323234371	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610323236353	Marionette	INFO	Stopped listening on port 56151
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1610323238181	geckodriver	INFO	Listening on 127.0.0.1:56190
+1610323241257	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileW8vt3D"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610323242370	Marionette	INFO	Listening on port 56198
+1610323242807	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1610323244325	Marionette	INFO	Stopped listening on port 56198
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1610323245733	geckodriver	INFO	Listening on 127.0.0.1:56239
+1610323248782	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileJBwO54"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610323249931	Marionette	INFO	Listening on port 56247
+1610323250334	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1610323251733	Marionette	INFO	Stopped listening on port 56247
+1610323252475	geckodriver	INFO	Listening on 127.0.0.1:56281
+1610323255562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilepi6kQB"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610323256673	Marionette	INFO	Listening on port 56289
+1610323257105	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://davidcloak.github.io/DjangoStaticFile/Interactive/Build/UnityLoader.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1610323258374	Marionette	INFO	Stopped listening on port 56289
+1610323259124	geckodriver	INFO	Listening on 127.0.0.1:56329
+1610323262190	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileVVikBR"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610323263317	Marionette	INFO	Listening on port 56337
+1610323263728	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610323265654	Marionette	INFO	Stopped listening on port 56337
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1610323266396	geckodriver	INFO	Listening on 127.0.0.1:56379
+1610323269485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofilebvH9qW"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610323270578	Marionette	INFO	Listening on port 56388
+1610323271026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610323272252	Marionette	INFO	Stopped listening on port 56388
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610323274412	geckodriver	INFO	Listening on 127.0.0.1:56417
+1610323277490	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofile60KSmj"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610323278570	Marionette	INFO	Listening on port 56425
+1610323279022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610323280574	Marionette	INFO	Stopped listening on port 56425
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+1610323282954	geckodriver	INFO	Listening on 127.0.0.1:56454
+1610323286039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileSJU8R9"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610323287267	Marionette	INFO	Listening on port 56462
+1610323287579	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610323288756	Marionette	INFO	Stopped listening on port 56462
+1610323289618	geckodriver	INFO	Listening on 127.0.0.1:56495
+1610323292710	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofiledEU05r"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610323293869	Marionette	INFO	Listening on port 56503
+1610323294255	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610323298553	Marionette	INFO	Stopped listening on port 56503
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1610323300939	geckodriver	INFO	Listening on 127.0.0.1:56578
+1610323304014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cloak\\AppData\\Local\\Temp\\rust_mozprofileUyZZ6A"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610323305033	Marionette	INFO	Listening on port 56587
+1610323305048	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1610323314376	Marionette	INFO	Stopped listening on port 56587
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
