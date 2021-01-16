@@ -117,3 +117,20 @@ class MarioGame(TestCase):
         self.assertTrue(html.startswith('<html>'))
         self.assertIn('<title>Mario Knock Off</title>', html)
         self.assertTrue(html.endswith('</html>'))
+
+class Logout(TestCase):
+    
+    def test_uses_Logout_template(self):
+        response = self.client.get('/Logout')
+        self.assertTemplateUsed(response, 'logout.html')
+
+    def test_LogoutPage_returns_correct_html(self):
+        request = HttpRequest()
+        response = webApp.views.LogoutPage(request)
+        html = response.content.decode('utf8')
+        self.assertTrue(html.startswith('<html>'))
+        self.assertIn('<title>Log Out</title>', html)
+        self.assertTrue(html.endswith('</html>'))
+
+class UserLogin(TestCase):
+    pass

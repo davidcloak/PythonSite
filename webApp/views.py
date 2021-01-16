@@ -1,6 +1,7 @@
-from django.shortcuts import redirect, render
+from django.shortcuts import get_object_or_404, redirect, render
 from django.http import HttpResponse
 from webApp.models import User
+from .forms import UserForm
 
 # Create your views here.
 
@@ -24,6 +25,23 @@ Options = {
     "233":'You have a heart attack.'
 }
 
+def LogoutPage(request):
+    if request.method == 'POST':
+        content['model'] = User("", "","", "", "")
+        return render(request, 'start.html')
+    else:
+        return render(request, 'logout.html')
+
+def TestPage(request):
+    all_users = User.objects.all()
+
+    email = 'cloak.david@gmail.com'
+    password = 'Password123'
+
+    theUser = User.objects.filter(email__contains=email)
+    theUser = theUser.filter(password__contains=password)
+
+    return render(request, 'test.html', {'all' : all_users})
 
 def StartPage(request):
     return render(request, 'start.html')
@@ -33,31 +51,40 @@ def FormPage(request):
 
 def ConPage(request):
     if request.method == 'POST':
-        p = request.POST.get('password', None)
+        addUser = UserForm(request.POST or None)
+        addUser.save()
+
+        p = addUser.__getitem__('password').value()
         password = ''
 
         if p != None:
             for i in range(0, len(p)):
                 password += 'X'
-
+        
         content['model'] = User('',
-            request.POST.get('fName', None),
-            request.POST.get('lName', None),
-            request.POST.get('email', None),
+            str(addUser.__getitem__('fName').value()),
+            str(addUser.__getitem__('lName').value()),
+            str(addUser.__getitem__('email').value()),
             password)
 
-        
-
-        content['realP'] = p
-
-        Options['1']['intro'] = 'Hello '+content['model'].fName
-        return render(request, 'conferm.html', {'context' : content['model']})
+        return render(request, 'conferm.html', {'context' : content['model'] })
     else:
         return render(request, 'conferm.html', {'context' : content['model']})
 
 def HomePage(request):
     if request.method == 'POST':
-        if content['model'].email == request.POST.get('email') and content['realP'] == request.POST.get('password'):
+        email = request.POST.get('email')
+        password = request.POST.get('password')
+
+        theUser = User.objects.filter(email__contains=email)
+        theUser = theUser.filter(password__contains=password)
+        try:
+            if theUser.first().email == email:
+                content['model'] = theUser.first()
+        except:
+            content['model'] = User(' ', 'fname', 'lname', 'email', 'password')
+
+        if content['model'].email == email:
             return render(request, 'home.html', {'context' : content['model']})
         else:
             return render(request, 'login.html', content)

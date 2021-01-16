@@ -27,4 +27,6 @@ urlpatterns = [
     url(r'^Game$', views.GamePage, name='Game'),
     url(r'^GameEnd$', views.GameEndPage, name='GameEnd'),
     url(r'^Mario$', views.MarioGamePage, name='Mario'),
+    url(r'^test$', views.TestPage, name='test'),
+    url(r'^Logout$', views.LogoutPage, name='logout'),
 ]

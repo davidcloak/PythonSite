@@ -1,5 +1,6 @@
 import builtins
 from selenium import webdriver
+from random import randint, random
 import unittest
 #make sure website and server are working
 #big picture testing
@@ -367,6 +368,73 @@ class MarioGameAddonTests(unittest.TestCase):
             512,
             delta=10
         )
+
+class UserReLoginTest(unittest.TestCase):
+
+    def setUp(self):
+        fireFoxOptions = webdriver.FirefoxOptions()
+        fireFoxOptions.headless=True
+        self.browser = webdriver.Firefox(options=fireFoxOptions)
+        self.browser.get('http://127.0.0.1:8000')
+    
+    def tearDown(self):
+         self.browser.quit()
+
+    def testMakeNewUser(self):
+        createUserBtn = self.browser.find_element_by_id('createUser')
+        createUserBtn.click()
+
+        #Form Page
+        first = self.browser.find_element_by_id('firstName')
+        last = self.browser.find_element_by_id('lastName')
+        email = self.browser.find_element_by_id('email')
+        password = self.browser.find_element_by_id('password')
+
+        rand = randint(1, 10000)
+
+        first.send_keys('David')
+        last.send_keys('Cloak')
+        email.send_keys('email'+str(rand)+'@email.com')
+        password.send_keys('thePassword')
+
+        confermBtn = self.browser.find_element_by_id('submit')
+        confermBtn.click()
+
+        self.browser.get('http://127.0.0.1:8000/Logout')
+        btn = self.browser.find_element_by_id('logout')
+        btn.click()
+
+        login = self.browser.find_element_by_id('login')
+        login.click()
+
+        email = self.browser.find_element_by_id('email')
+        password = self.browser.find_element_by_id('password')
+
+        email.send_keys('email'+str(rand)+'@email.com')
+        password.send_keys('thePassword')
+
+        btn = self.browser.find_element_by_id('submit')
+        btn.click()
+
+        user = self.browser.find_element_by_id('user').text
+        self.assertIn('David', user, 'User Not Loged in')
+
+    def testOldUser(self):
+        login = self.browser.find_element_by_id('login')
+        login.click()
+
+        email = self.browser.find_element_by_id('email')
+        password = self.browser.find_element_by_id('password')
+
+        email.send_keys('email@email.com')
+        password.send_keys('thePassword')
+
+        btn = self.browser.find_element_by_id('submit')
+        btn.click()
+
+        user = self.browser.find_element_by_id('user').text
+        self.assertIn('David', user, 'User Not Loged in')
+
 
 if __name__ == '__main__':
     #calls the class if it is not instantiated elsewhere
