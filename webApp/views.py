@@ -63,11 +63,11 @@ def ConPage(request):
             for i in range(0, len(p)):
                 password += 'X'
 
-        content['model'] = User('',
-            str(addUser.__getitem__('fName').value()),
-            str(addUser.__getitem__('lName').value()),
-            str(addUser.__getitem__('email').value()),
-            password)
+        # content['model'] = User('',
+        #     str(addUser.__getitem__('fName').value()),
+        #     str(addUser.__getitem__('lName').value()),
+        #     str(addUser.__getitem__('email').value()),
+        #     password)
 
         return render(request, 'conferm.html', {'context' : content['model']})
     else:
