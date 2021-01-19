@@ -75,11 +75,19 @@ WSGI_APPLICATION = 'webSite.wsgi.application'
 # https://docs.djangoproject.com/en/1.11/ref/settings/#databases
 
 DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
-    }
-}
+     'default': {
+         'ENGINE': 'sql_server.pyodbc',
+         'NAME': 'AzureDatabase',
+         'USER': 'DaveC',
+         'PASSWORD': '9027018Dc',
+         'HOST': 'davidsazuredatabase.database.windows.net',
+         'PORT': '1433',
+         'OPTIONS': {
+             'driver': 'ODBC Driver 13 for SQL Server',
+             'MARS_Connection': 'True',
+         }
+     }
+ }
 
 
 # Password validation
