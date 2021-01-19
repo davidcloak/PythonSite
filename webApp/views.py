@@ -1,7 +1,7 @@
 from django.shortcuts import get_object_or_404, redirect, render
 from django.http import HttpResponse
 from webApp.models import User
-from .forms import UserForm
+from webApp.forms import UserForm
 
 # Create your views here.
 
@@ -51,30 +51,28 @@ def FormPage(request):
 
 def ConPage(request):
     if request.method == 'POST':
-        # addUser = UserForm(request.POST or None)
-        # addUser.save()
-        # addUser.save_m2m()
+        addUser = UserForm(request.POST or None)
+        addUser.save()
 
-        # p = addUser.__getitem__('password').value()
+        p = addUser.__getitem__('password').value()
         p = request.POST.get('password')
         password = ''
-
-        
 
         if p != None:
             for i in range(0, len(p)):
                 password += 'X'
-        test = User('',
-            request.POST.get('fName'),
-            request.POST.get('lName'),
-            request.POST.get('email'),
-            password)
-
-        # content['model'] = User('',
-        #     str(addUser.__getitem__('fName').value()),
-        #     str(addUser.__getitem__('lName').value()),
-        #     str(addUser.__getitem__('email').value()),
+        # test = User.objects.create('',
+        #     request.POST.get('fName'),
+        #     request.POST.get('lName'),
+        #     request.POST.get('email'),
         #     password)
+        
+
+        content['model'] = User('',
+            str(addUser.__getitem__('fName').value()),
+            str(addUser.__getitem__('lName').value()),
+            str(addUser.__getitem__('email').value()),
+            password)
 
         
 
