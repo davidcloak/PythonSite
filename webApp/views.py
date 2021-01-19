@@ -51,10 +51,12 @@ def FormPage(request):
 
 def ConPage(request):
     if request.method == 'POST':
-        addUser = UserForm(request.POST or None)
-        #addUser.save()
+        # addUser = UserForm(request.POST or None)
+        # addUser.save()
+        # addUser.save_m2m()
 
-        p = addUser.__getitem__('password').value()
+        # p = addUser.__getitem__('password').value()
+        p = request.POST.get('password')
         password = ''
 
         
@@ -62,12 +64,19 @@ def ConPage(request):
         if p != None:
             for i in range(0, len(p)):
                 password += 'X'
-        
-        content['model'] = User('',
-            str(addUser.__getitem__('fName').value()),
-            str(addUser.__getitem__('lName').value()),
-            str(addUser.__getitem__('email').value()),
+        test = User('',
+            request.POST.get('fName'),
+            request.POST.get('lName'),
+            request.POST.get('email'),
             password)
+
+        # content['model'] = User('',
+        #     str(addUser.__getitem__('fName').value()),
+        #     str(addUser.__getitem__('lName').value()),
+        #     str(addUser.__getitem__('email').value()),
+        #     password)
+
+        
 
         return render(request, 'conferm.html', {'context' : content['model'] })
     else:
