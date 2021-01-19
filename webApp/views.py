@@ -52,10 +52,12 @@ def FormPage(request):
 def ConPage(request):
     if request.method == 'POST':
         addUser = UserForm(request.POST or None)
-        addUser.save()
+        #addUser.save()
 
         p = addUser.__getitem__('password').value()
         password = ''
+
+        
 
         if p != None:
             for i in range(0, len(p)):
