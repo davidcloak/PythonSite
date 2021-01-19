@@ -55,12 +55,23 @@ def ConPage(request):
         addUser.save()
 
         p = addUser.__getitem__('password').value()
+        # p = request.POST.get('password')
         password = ''
 
         if p != None:
             for i in range(0, len(p)):
                 password += 'X'
         
+        # theUser = User('',
+        #     request.POST.get('fName'),
+        #     request.POST.get('lName'),
+        #     request.POST.get('email'),
+        #     password)
+
+        # theUser.save();
+
+        # content['model'] = theUser
+
         content['model'] = User('',
             str(addUser.__getitem__('fName').value()),
             str(addUser.__getitem__('lName').value()),
