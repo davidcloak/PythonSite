@@ -1,0 +1,56 @@
+<html>
+    {% load static %}
+<head>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
+        integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="{% static 'style.css' %}">
+    
+    <link rel="stylesheet" href="https://davidcloak.github.io/DjangoStaticFile/Interactive/style.css">
+    <title>Text Game</title>
+</head>
+
+<body style="background-color: black;" id="background">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#" id="user">{{model.fName}}</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="/Home">Home</a>
+                </li>
+                <li class="nav-item  active">
+                    <a class="nav-link" href="/Game">Start A New Game<span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" id="MarioGameBtn" href="/Mario">Start Knock Off Mario</a>
+                </li>
+                <li>
+                  <a class="nav-link" id="LogoutBtn" href="/Logout">Log Out</a>
+                </li>
+        </div>
+    </nav>
+    
+    <div class="centerBox">
+        <div class="contextBox centerBox" id="image" style="background-image: url('https://davidcloak.github.io/DjangoStaticFile/Interactive/images/{{gamelists.image}}'); background-repeat: no-repeat; background-size: cover;">
+            <div class="content" id="context">
+                <p style="font-size: 1.5em;">{{gamelists.intro}}</p>
+                <form method="POST">
+                    {% csrf_token %}
+                    <div id="options">
+                        <button value="1" name="choose" id="first" type="submit">{{gamelists.one}}</button><br>
+                        <button value="2" name="choose" id="second" type="submit">{{gamelists.two}}</button><br>
+                        <button value="3" name="choose" id="third" type="submit">{{gamelists.three}}</button><br>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
