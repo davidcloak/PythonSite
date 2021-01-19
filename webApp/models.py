@@ -6,3 +6,6 @@ class User(models.Model):
     lName = models.CharField(max_length=150, default='')
     email = models.CharField(max_length=500, default='')
     password = models.CharField(max_length=250, default='')
+
+    def getUser(self):
+        return User('', self.fName, self.lName, self.email, self.password)
